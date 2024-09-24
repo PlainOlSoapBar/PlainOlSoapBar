@@ -3,7 +3,7 @@
   <!--- Metrics --->
 <th align="center" width="480">
 
-[![Metrics](/github-metrics.svg)](https://github.com/PlainOlSoapBar/PlainOlSoapBar/assets/86759315/034c58a7-0831-464b-bb5a-9db81323a4c4)
+[![Metrics](/github-metrics.svg)](https://www.youtube.com/watch?v=5bZ53Ynus1Y)
 </th>
 
 <th justify="center" align="left" width="160">
