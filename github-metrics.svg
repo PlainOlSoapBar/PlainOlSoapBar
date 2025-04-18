@@ -83,7 +83,7 @@ I like software engineering and learning Japanese!</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            472 Commits
+                            473 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -233,10 +233,10 @@ I like software engineering and learning Japanese!</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="255.3950606806416" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="255.3950606806416" y="0" width="120.98277178986676" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="376.3778324705084" y="0" width="74.36009505219384" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="450.73792752270225" y="0" width="9.262072477297803" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="254.76803250931255" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="254.76803250931255" y="0" width="120.68574331188621" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="375.45377582119875" y="0" width="75.30689129698612" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="450.76066711818487" y="0" width="9.239332881815104" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -248,7 +248,7 @@ I like software engineering and learning Japanese!</div>
                                 JavaScript
                             </div>
                             <small>
-                                <div>55.52%</div>
+                                <div>55.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -259,7 +259,7 @@ I like software engineering and learning Japanese!</div>
                                 Python
                             </div>
                             <small>
-                                <div>16.17%</div>
+                                <div>16.37%</div>
                             </small>
                         </div>
                     </section>
@@ -272,7 +272,7 @@ I like software engineering and learning Japanese!</div>
                                 Vue
                             </div>
                             <small>
-                                <div>26.3%</div>
+                                <div>26.24%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -291,7 +291,7 @@ I like software engineering and learning Japanese!</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Apr 2025, 23:26:53 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Apr 2025, 00:18:14 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
