@@ -3,7 +3,7 @@
   <!--- Metrics --->
 <th align="center" width="480">
 
-[![Metrics](/github-metrics.svg)](https://www.youtube.com/watch?v=5bZ53Ynus1Y)
+[![Metrics](/github-metrics.svg)](https://www.youtube.com/watch?v=4o_wWoO76II)
 </th>
 
 <th justify="center" align="left" width="160">
