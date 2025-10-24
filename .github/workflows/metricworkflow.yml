@@ -29,7 +29,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
-          plugin_languages_indepth: yes
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_languages: yes
@@ -37,8 +36,9 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: data, markup, programming, prose
           plugin_languages_colors: github
-          plugin_languages_details: percentage
-          plugin_languages_ignored: shell, lua
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines, percentage
+          plugin_languages_ignored: html, css, shell, lua
           plugin_languages_limit: 4
           plugin_languages_recent_categories: data, markup, programming, prose
           plugin_languages_recent_days: 14
